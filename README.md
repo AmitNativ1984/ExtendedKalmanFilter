@@ -1,4 +1,4 @@
-# ExtendedKalmanFilter
+# Extended Kalman Filter
 extended kalman filter with sensor fusion of lidar and radar
 
 ## lidar data is linear
